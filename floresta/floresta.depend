@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1728185340 source:c:\users\breno\projetos\pucc\programação paralela\exercícios\floresta-incendio\floresta\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<time.h>
+	"functions.h"
+
+1728183577 c:\users\breno\projetos\pucc\programação paralela\exercícios\floresta-incendio\floresta\functions.h
+	<pthread.h>
+
+1728183568 source:c:\users\breno\projetos\pucc\programação paralela\exercícios\floresta-incendio\floresta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<time.h>
+	"functions.h"
+
